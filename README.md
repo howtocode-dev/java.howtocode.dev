@@ -2,9 +2,9 @@
 
 [কোর্স এর মুল পাতা](http://java.howtocode.com.bd/) | [HowToCode মুল সাইট](http://www.howtocode.com.bd/) | [সবার জন্য প্রোগ্রামিং ব্লগ](http://blog.howtocode.com.bd/)
 
-# Scala দি নেক্সট বিগ থিং
+# জাভা প্রোগ্রামিং
 
-### [লেখকের নাম](#)
+### [বজলুর রহমান রোকন](http://www.bazlur.com/)
 
 #### সংক্ষেপ
 
