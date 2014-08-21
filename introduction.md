@@ -6,9 +6,8 @@
 
 নিচের ভিডিও টি চমৎকার। একবার দেখে নেওয়া যেতে পারে। 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6a9HAO0Pmkc
-" target="_blank"><img src="http://img.youtube.com/vi/6a9HAO0Pmkc/0.jpg" 
-alt="the Future Java" width="640" height="360" border="10" /></a>
+<iframe width="640" height="360" src="//www.youtube.com/embed/6a9HAO0Pmkc?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 চলুন একটু পেছনের ইতিহাস জেনে নেই। 
 
