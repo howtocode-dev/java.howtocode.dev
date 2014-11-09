@@ -13,7 +13,7 @@
 **কাদের জন্যে কোর্স:**  এই কোর্স মূলত বিশ্ববিদ্যালয় এর প্রথম বর্ষের ছাত্র-ছাত্রীদের জন্যে যারা অবজেক্ট ওরিয়েন্টেড কনসেপ্ট শুরুকরতে চায়। তবে যে কেও চাইলে এই কোর্সটি করতে পারে। ধরে নেওয়া হচ্ছে যে, শিক্ষার্থী অন্ত্যত যে কোন একটি প্রোগ্রামিং ল্যাংগুয়েজ (সি/সি++) সম্পর্কে আগে থেকেই ধারণা রাখে।
 
 > ## Statutory warning
-> __This book may containt unexpected misspellings. Reader Feedback Requested.__
+> __This book may contain unexpected misspellings. Reader Feedback Requested.__
 
 #### ওপেন সোর্স
 
