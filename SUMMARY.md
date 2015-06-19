@@ -28,4 +28,4 @@
 * [পাঠ ১৯: ক্লাস ফাইল এবং বাইটকোড](19.md)
 * [পাঠ ২০: Understanding performance tuning](20.md)
 * [পাঠ ২১:  মডার্ন জাভা ইউজেস](21.md)
-
+* [অনুশীলন](exercises.md)
