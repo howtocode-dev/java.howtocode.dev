@@ -1,6 +1,3 @@
-# জাভা প্রোগ্রামিং
-
-
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=353725671441956" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>  
 
 
@@ -8,8 +5,6 @@
 (প্রথম ৫ জন)  
 <iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:115px; width:100%; margin-left: 15;" allowTransparency="true" src="https://nuhil.github.io/api/contributions.html?repo=java"></iframe>
 
-
-#### সংক্ষেপ
 
 **কোর্সের বর্ণনা:**  জাভা বর্তমানে বহুল ব্যবহৃত একটি প্রোগ্রামিং ল্যাংগুয়েজ। এন্টারপ্রাইজ এপ্লিক্যাশান ডেভেলেপমেন্টে এখনো জাভার বিকল্প তৈরি হয়নি বলে ধরা হয়। জাভার জনপ্রিয়তার মুল কারণ এর portability, নিরাপত্তা, এবং অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ও ওয়েব প্রোগ্রামিং এর পরিপূর্ণ সাপোর্ট। এই কোর্সে জাভার অ আ ক খ থেকে শুরু করে এর ব্যবহারিক প্রয়োগ এবং অন্যন্য বিষয় গুলো নিয়ে আলোচনা করা হবে।
 
