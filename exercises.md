@@ -1,20 +1,26 @@
-## অনুশীলন  # ১
+# অনুশীলন
 
-Design a class named Point which will model a 2D point with `X` and `Y` coordinates. 
+Design a class named Point which will model a 2D point with `X` and `Y` coordinates.
 
-1. Two instance variable variables `X` (`int`) and `X` (`int`)
-2. A "_no-argument_" (or "_no-arg_") constructor that construct a point at `(0, 0)`.
+1. Two instance variable variables `X` \(`int`\) and `X` \(`int`\)
+2. A "_no-argument_" \(or "_no-arg_"\) constructor that construct a point at `(0, 0)`.
 3. A constructor that constructs a point with the given `x` and `y` coordinates.
 4. Getter and setter for the instance variables `x` and y.
 5. A method `setXY()` to set both x and y.
-6. A `toString()` method that returns a string description of the instance in the format `"(x,
-y)"`.
-7. A method called `distance(int x, int y)` that returns the distance from this point to
-another point at the given `(x, y)` coordinates.
-8. An overloaded `distance(Point another)` that returns the distance from this point to
-the given `Point` instance another.
+6. A `toString()` method that returns a string description of the instance in the format \`"\(x,
 
-For example - 
+   y\)"\`.
+
+7. A method called `distance(int x, int y)` that returns the distance from this point to
+
+   another point at the given `(x, y)` coordinates.
+
+8. An overloaded `distance(Point another)` that returns the distance from this point to
+
+   the given `Point` instance another.
+
+For example -
+
 ```java
 package bd.com.howtocode.java;
 
@@ -70,5 +76,5 @@ public class Point {
 }
 ```
 
-Now write a program that allocates 10 points in an array of `Point`, and initializes to (1, 1), (2,
-2), ... (10, 10).
+Now write a program that allocates 10 points in an array of `Point`, and initializes to \(1, 1\), \(2, 2\), ... \(10, 10\).
+
